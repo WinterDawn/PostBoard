@@ -1,0 +1,23 @@
+# OS X
+.DS_Store*
+
+
+# npm
+node_modules
+package-lock.json
+*.log
+
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+.vscode
