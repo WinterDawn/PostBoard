@@ -3,6 +3,7 @@ import {login} from './UserFunctions'
 
 /*
     create login page
+    use interception pattern
 */
 class Login extends Component {
     constructor() {
