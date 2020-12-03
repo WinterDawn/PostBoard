@@ -1,4 +1,4 @@
-# q-and-a
+# PostBoard
 
 Object-Oriented Analysis &amp; Design Course Homework.
 This is a website where students can post their questions or answer questions. 
